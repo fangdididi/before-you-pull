@@ -1,0 +1,17 @@
+{
+  "name": "example-dense-8b",
+  "total_params_b": 8.03,
+  "active_params_b": null,
+  "layers": 32,
+  "kv_layers": 32,
+  "sliding_layers": 0,
+  "sliding_window": null,
+  "kv_heads": 8,
+  "head_dim": 128,
+  "vocab": 128256,
+  "hidden": 4096,
+  "tied_embeddings": false,
+  "max_context": 131072,
+  "file_gb": {},
+  "_note": "params estimated from config shapes (attention + MLP/experts + embeddings); verify against the model page"
+}

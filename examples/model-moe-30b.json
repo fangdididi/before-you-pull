@@ -1,0 +1,17 @@
+{
+  "name": "example-moe-30b-a3b",
+  "total_params_b": 30.52,
+  "active_params_b": 3.34,
+  "layers": 48,
+  "kv_layers": 48,
+  "sliding_layers": 0,
+  "sliding_window": null,
+  "kv_heads": 4,
+  "head_dim": 128,
+  "vocab": 151936,
+  "hidden": 2048,
+  "tied_embeddings": false,
+  "max_context": 40960,
+  "file_gb": {},
+  "_note": "params estimated from config shapes (attention + MLP/experts + embeddings); verify against the model page"
+}

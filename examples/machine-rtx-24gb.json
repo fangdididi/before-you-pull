@@ -1,0 +1,3 @@
+{"name": "example desktop, 24 GB GPU", "memory_gb": 24, "unified": false, "usable_fraction": null,
+ "bandwidth_gbs": 800, "bandwidth_source": "spec x 0.8 (example value)", "fp16_tflops": 80,
+ "system_ram_gb": 64, "ram_bandwidth_gbs": 60, "disk_free_gb": 300}
